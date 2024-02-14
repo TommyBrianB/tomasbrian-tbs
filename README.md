@@ -1,23 +1,8 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TommyBrianB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommyBrianB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h1 align="left">Hello there! 👋</h1>
 
 ###
 
-<h1 align="left">Hello there 👋</h1>
-
-###
-
-<p align="left">My name is Tomas Brian</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning node, express, c++</p>
+<p align="left">I'm Tomas, a software developer from Buenos Aires, Argentina</p>
 
 ###
 
